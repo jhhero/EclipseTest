@@ -17,7 +17,6 @@
     <label for="exampleInputPassword1">Password</label>
     <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
     <input id="ye" name="" type="text" />
-    <input id="yewu" name="" type="text" />
   </div>
   <div class="form-group">
     <label for="exampleInputFile">File input</label>
